@@ -1,7 +1,7 @@
 # Tela Inicial
 ![Inicial](https://user-images.githubusercontent.com/40778725/169152460-23a027e3-c756-41f3-8721-b94d1a5dec80.png)
 
-#Cadastro
+# Cadastro
 ![Cadastro das duvidas](https://user-images.githubusercontent.com/40778725/169152464-b797f7d8-26df-4832-ae98-71c71fd2fd47.png)
 
 # LetMeAsk
